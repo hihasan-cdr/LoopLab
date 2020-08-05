@@ -1,0 +1,86 @@
+body{background:#333;
+}
+
+.navbar{
+    background:rgb(0, 0, 0);
+    opacity:.8;
+border-bottom:4px solid #066AD4;
+}
+.nav-item{padding-left: 20px;}
+
+#home-menu{
+    background:url('../img/b.jpg') no-repeat center;
+    min-height:700px;
+    background-size: cover;
+    background-attachment: fixed;
+
+
+}
+
+.card h3{margin-bottom: -20px;}
+
+
+    .dark-overlay{
+        background:rgba(0,0,0, .7);
+        min-height:700px;
+    }
+
+#home-menu .fa{
+    background:#fff;
+    padding:6px;
+    color:dodgerblue;
+    font-size: 20px;
+    border-radius: 6px;
+}
+
+.card-form{
+    opacity: 0.8;
+}
+
+.inner-home{
+
+}
+
+
+#more{
+    background:#fff;
+    color:#333;
+    
+}
+
+#more .fa{
+    background:#333;
+    color:#fff;
+    font-size: 24px;
+    padding:6px;
+    border-radius: 6px;
+}
+
+#create-menu{
+    background:dodgerblue;
+}
+
+#create-more .fa{
+    background:#fff;
+    padding:6px;
+    color:dodgerblue;
+    font-size: 20px;
+    border-radius: 6px;
+}
+
+#share-menu{
+    background:dodgerblue;
+}
+
+#share-more{
+    background:white;
+    color:black;
+}
+
+#share-more .fa{
+    background:#333;
+    padding:6px;
+    color:#fff;
+    font-size: 20px;
+    border-radius: 6px;
+}
